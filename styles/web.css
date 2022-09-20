@@ -24,6 +24,10 @@ header {
   font-size: 30px;
 }
 
+.topnav a.active {
+  background-color: #2196F3;
+  color: white;
+}
 
 .topnav a:hover {
   background-color: #ddd;
